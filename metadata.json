@@ -1,0 +1,5 @@
+{
+  "name": "VARLINK",
+  "description": "A modern variable-based link manager that allows you to create dynamic URLs with custom placeholders and easily reorder them.",
+  "requestFramePermissions": []
+}
